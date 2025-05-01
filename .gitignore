@@ -1,0 +1,11 @@
+Library/
+Temp/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
